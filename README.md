@@ -1,10 +1,10 @@
 # UpdateGoproxy
-自用UpdateGoproxy
-下载改文件名：UpdateGoproxy.exe
-运行会生成文件：
-7zCon.sfx(从github下载，链接抄的会长的cmd)
-Address.txt（goproxy安装路径）
-AppID.txt(会保存软件界面填入的id信息，以备下次运行软件使用)
+-自用UpdateGoproxy
+-下载改文件名：UpdateGoproxy.exe
+-运行会生成文件：
+-7zCon.sfx(从github下载，链接抄的会长的cmd)
+-Address.txt（goproxy安装路径）
+-AppID.txt(会保存软件界面填入的id信息，以备下次运行软件使用)
 g.exe（狗屁下载文件生成的自解压文件）
 goproxy.7z(最新的狗屁版本，额，不是release版本)
 基本运行步骤：
